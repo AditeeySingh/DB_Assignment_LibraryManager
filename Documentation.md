@@ -56,4 +56,11 @@ git push -u origin main
 ```
 
 ## Screenshots and Demo
-Please check the generated recording file in the project workspace or add your own screenshots to this document prior to converting it to PDF.
+
+<img width="1687" height="518" alt="Screenshot 2026-05-03 at 12 11 59 AM" src="https://github.com/user-attachments/assets/ad40d10f-a7d8-4cc3-924d-6eea46a0c7db" />
+
+<img width="1695" height="530" alt="Screenshot 2026-05-03 at 12 12 29 AM" src="https://github.com/user-attachments/assets/19f2d216-bbcf-4f60-bebc-6d20b8575759" />
+
+<img width="1686" height="735" alt="Screenshot 2026-05-03 at 12 12 40 AM" src="https://github.com/user-attachments/assets/a0df3550-1713-4f79-84b0-8d0f66711256" />
+
+<img width="1690" height="627" alt="Screenshot 2026-05-03 at 12 12 49 AM" src="https://github.com/user-attachments/assets/c1167392-31c5-49ad-bb83-17109707e9d7" />
